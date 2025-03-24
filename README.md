@@ -33,5 +33,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=layer6ai)](https://solved.ac/layer6ai)
 
 ### Dev Card
-<a href="https://app.daily.dev/chiyo"><img src="https://api.daily.dev/devcards/v2/Ov1WmbJ61.png?type=default&r=769" width="320" alt="thornscript's Dev Card"/></a>
+<a href="https://app.daily.dev/chiyo"><img src="https://api.daily.dev/devcards/v2/Ov1WmbJ61.png?type=default&r=hba" width="320" alt="thornscript's Dev Card"/></a>
 <a href="https://app.daily.dev/chiyo"><img src="https://github.com/user-attachments/assets/c10b32b8-c64e-42d0-9b59-fb05f54f040c" width="450" alt="February 2025 Top Reader in Security"/></a>
