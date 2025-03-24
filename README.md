@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://blog.hexabrain.net](https://blog.hexabrain.net)
 
-- 📫 How to reach me **binarybard@pm.me**
+- 📫 How to reach me **thornscript.revered609@passinbox.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
