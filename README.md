@@ -34,4 +34,4 @@
 
 ### Dev Card
 <a href="https://app.daily.dev/chiyo"><img src="https://api.daily.dev/devcards/v2/Ov1WmbJ61.png?type=default&r=hba" width="320" alt="thornscript's Dev Card"/></a>
-<a href="https://app.daily.dev/chiyo"><img src="https://github.com/user-attachments/assets/c10b32b8-c64e-42d0-9b59-fb05f54f040c" width="450" alt="February 2025 Top Reader in Security"/></a>
+<a href="https://app.daily.dev/chiyo"><img src="https://github.com/user-attachments/assets/b1fe2ceb-3332-4f22-9df5-3b644da105f0" width="450" alt="February 2025 Top Reader in Security"/></a>
